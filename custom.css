@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+
+}
+
+.navbar-toggler {
+	border: none;
+}
+
+.navbar-toggler:active {
+	border: none;
+}
+
+.navbar {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.bg-custom {
+	background-color: #4D4955;
+}
+
+#brand {
+	font-family: 'Pacifico', cursive;
+	color: #FBFFF3;
+}
+
+#white {
+	color: #FBFFF3;
+}
+
+.middle-top-page {
+	background:url("background2.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#modifier1 {
+	padding-top: 85px;
+	padding-bottom: 45px;
+}
+
+#title {
+	color:white;
+}
+#subtitle {
+	color:#5581C9;
+	font-family: 'Pacifico', cursive;
+}
+h6 {
+	color:#adadad;
+	font-weight: 200;
+	font-style: italic;
+}
+
+.background-tint {
+	background-color: rgba(0, 0, 197, 0.2); 
+	color: rgba(0, 0, 197, 0.2);
+}
+
+hr {
+	width: 100px;
+}
+
+#adjust1 {
+	padding-top: 15px;
+}
+
+.inline {
+	display: inline-block;
+}
+
+#gray {
+	color:#808080;
+}
+
+.diff1 {
+	color: #389cff;
+}
+
+#diff2 {
+	color:#ff7738;
+}
+
+.footer-page {
+	width:100%;
+	background-color: #2e3e59;
+	margin-top: 35px;
+}
+
+footer {
+	padding:20px;
+	color: white;
+}
+
+.card {
+	display:inline-block;
+}
+
+.space {
+	margin: 85px 15px 25px 15px;
+}
